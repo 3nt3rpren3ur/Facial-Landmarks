@@ -1,4 +1,4 @@
-# Facial-Landmarks-and-Beauty-rating
+# Facial Landmarks
 
 ### Facial Landmarks
 [16-05-2020]
