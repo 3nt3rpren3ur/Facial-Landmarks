@@ -6,6 +6,8 @@
 * Facial landmarks recognisation script is uploaded
   * The extract_face_landmarks function detects the faces in a given image and face landmark points are returned based on dlib's face landmark detection
   * ![](https://github.com/likhith1542/Facial-Landmarks-and-Beauty-rating/blob/master/color.png?raw=true)
+  
+  * ![](https://github.com/likhith1542/Facial-Landmarks-and-Beauty-rating/blob/master/colorindex.png?raw=true)
 
 
 ### Notes
